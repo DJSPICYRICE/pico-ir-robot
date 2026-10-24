@@ -12,12 +12,6 @@ Final project for **CMPEH 472** (Penn State Harrisburg), Fall 2025 — by Mouli 
 - **Collision avoidance** — HC-SR04 stops the robot when something is within 10 cm; forward and turns stay blocked until you back up
 - **Motor balancing** — PWM duty cycles trim the two motors so the robot drives straight
 
-## Demo videos
-
-- [Lab 13 – motor test](https://photos.app.goo.gl/qGZzD7LjBvdNRxRS7)
-- [Lab 14 – IR remote driving](https://photos.app.goo.gl/TiixQqNCrBcWdyLN9)
-- [Lab 15 – final robot](https://photos.app.goo.gl/mTYEEao4oGxGP4iv9)
-
 ## Hardware
 
 - Raspberry Pi Pico W
