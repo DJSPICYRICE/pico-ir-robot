@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.vscode/
+.micropico
+.DS_Store
+Thumbs.db
+lib/ir_rx/
+lib/hcsr04.py
